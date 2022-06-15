@@ -1,0 +1,24 @@
+{
+	"dev-name":"Vishnu N K",
+	"apps":[
+		{
+			"name":"Wireless File Manager (amazon appstore version)",
+			"packagename":"",
+			"version":"v2.25Aii",
+			"download_link":"https://github.com/vishnunkmr/quickupdates/raw/main/WFM_2.25Aii.apk"
+		},
+		{
+			"name":"Time Netspeed Overlay (No overlay permission activation needed)",
+			"packagename":"",
+			"version":"v0.34np",
+			"download_link":"https://github.com/visnkmr/timenetspeed/releases/download/v0.33/app-release.apk"
+		}
+	],
+	"privay-pol":"",
+	"social":[
+		{
+			"name":"Telegram",
+			"link":"https://t.me/vishnunkmr"
+		}
+	]
+}
