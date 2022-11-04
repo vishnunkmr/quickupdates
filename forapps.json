@@ -5,13 +5,13 @@
 			"name":"Wireless File Manager (amazon appstore version)",
 			"packagename":"io.github.visnkmr.wirelessexplorer",
 			"version":"27",
-			"download_link":"https://github.com/vishnunkmr/quickupdates/raw/main/WFM_2.25Aii.apk"
+			"download_link":"https://cdn.jsdelivr.net/gh/vishnunkmr/quickupdates@master/WFM_2.25Aii.apk"
 		},
 		{
 			"name":"Time Netspeed Overlay (No overlay permission activation needed)",
 			"packagename":"visnkmr.apps.timenetspeed",
 			"version":"11",
-			"download_link":"https://github.com/vishnunkmr/quickupdates/raw/main/TNS_0.33.apk"
+			"download_link":"https://cdn.jsdelivr.net/gh/vishnunkmr/quickupdates@master/TNS_0.33.apk"
 		}
 	],
 	"privay-pol":"",
