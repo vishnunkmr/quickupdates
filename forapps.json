@@ -12,6 +12,12 @@
 			"packagename":"visnkmr.apps.timenetspeed",
 			"version":"11",
 			"download_link":"https://cdn.jsdelivr.net/gh/vishnunkmr/quickupdates@master/TNS_NP.apk"
+		},
+		{
+			"name":"No Keyboard",
+			"packagename":"io.github.visnkmr.nokeyboard",
+			"version":"",
+			"download_link":"https://cdn.jsdelivr.net/gh/vishnunkmr/quickupdates@master/NKB.apk"
 		}
 	],
 	"privay-pol":"",
