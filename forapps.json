@@ -24,6 +24,18 @@
 			"packagename":"com.machiav3lli.fdroid.database",
 			"version":"4",
 			"download_link":"https://github.com/NeoApplications/Neo-Store/releases/download/0.9.9/NeoStore-release.apk"
+		},
+		{
+			"name":"Aurora",
+			"packagename":"com.aurora.store",
+			"version":"41",
+			"download_link":"https://f-droid.org/repo/com.aurora.store_41.apk"
+		},
+		{
+			"name":"V File explorer",
+			"packagename":"visnkmr.apps.filexplorer",
+			"version":"6",
+			"download_link":"https://cdn.jsdelivr.net/gh/vishnunkmr/quickupdates@master/VFM_1_681g.apk"
 		}
 	],
 	"privay-pol":"",
