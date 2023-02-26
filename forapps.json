@@ -4,8 +4,8 @@
 		{
 			"name":"Wireless File Manager (amazon appstore version)",
 			"packagename":"io.github.visnkmr.wirelessexplorer",
-			"version":"30",
-			"download_link":"https://cdn.jsdelivr.net/gh/vishnunkmr/quickupdates@master/WFM_A.apk"
+			"version":"33",
+			"download_link":"https://ipfs.io/ipfs/QmQ9cT2jPxj99mZkWCPVXU3Syqmfzb7f3PXRdNYNEF2uJ7?filename=WFM_2.3Ai.apk"
 		},
 		{
 			"name":"Time Netspeed Overlay (No overlay permission activation needed)",
@@ -34,9 +34,16 @@
 		{
 			"name":"V File explorer",
 			"packagename":"visnkmr.apps.filexplorer",
-			"version":"6",
-			"download_link":"https://cdn.jsdelivr.net/gh/vishnunkmr/quickupdates@master/VFM_1_681g.apk"
-		}
+			"version":"15",
+			"download_link":"https://ipfs.io/ipfs/QmWFVAFvjRbZk8dd4tvvpEF9N2KmYog3t6Y8yY6aFp7fJQ?filename=FX_1.7A.apk"
+		},
+		{
+			"name":"Taotlus",
+			"packagename":"io.github.visnkmr.quicklaunch",
+			"version":"21",
+			"download_link":"https://ipfs.io/ipfs/QmPnu2fdY9hreoSzfdKQi9icK5yrePAi4MwUT9NVfadQnd?filename=Taotlus_1.7Ai.apk"
+		},
+		
 	],
 	"privay-pol":"",
 	"social":[
