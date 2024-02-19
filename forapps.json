@@ -2,10 +2,20 @@
 	"dev-name":"Vishnu N K",
 	"apps":[
 		{
+			"name":"Time Netspeed",
+			"packagename":"",
+			"version":"",
+			"download_link":"https://github.com/visnkmr/netspeed-test/releases/latest/download/app-release.apk"
+		},{
+			"name":"Background Apps and Process List",
+			"packagename":"",
+			"version":"",
+			"download_link":"https://github.com/visnkmr/backgroundappslist/releases/latest/download/app-release.apk"
+		},{
 			"name":"Wireless File Manager (amazon appstore version)",
-			"packagename":"io.github.visnkmr.wirelessexplorer",
-			"version":"33",
-			"download_link":"https://ipfs.io/ipfs/QmQ9cT2jPxj99mZkWCPVXU3Syqmfzb7f3PXRdNYNEF2uJ7?filename=WFM_2.3Ai.apk"
+			"packagename":"",
+			"version":"",
+			"download_link":"https://github.com/visnkmr/wfm/releases/latest/download/app-release.apk"
 		},
 		{
 			"name":"Time Netspeed Overlay (No overlay permission activation needed)",
@@ -16,26 +26,14 @@
 		{
 			"name":"No Keyboard",
 			"packagename":"io.github.visnkmr.nokeyboard",
-			"version":"4",
-			"download_link":"https://ipfs.io/ipfs/QmcPxUs3oji2aqe5SWtYNiZuzCCMgrG9vo8CXKw2hVaget?filename=NoKB_2.0G.apk"
+			"version":"",
+			"download_link":"https://github.com/visnkmr/nokeyboard/releases/latest/download/app-release.apk"
 		},
 		{
-			"name":"Neo store",
-			"packagename":"com.machiav3lli.fdroid.database",
-			"version":"4",
-			"download_link":"https://github.com/NeoApplications/Neo-Store/releases/download/0.9.9/NeoStore-release.apk"
-		},
-		{
-			"name":"Aurora",
-			"packagename":"com.aurora.store",
-			"version":"41",
-			"download_link":"https://f-droid.org/repo/com.aurora.store_41.apk"
-		},
-		{
-			"name":"V File explorer",
-			"packagename":"visnkmr.apps.filexplorer",
-			"version":"15",
-			"download_link":"https://ipfs.io/ipfs/QmWFVAFvjRbZk8dd4tvvpEF9N2KmYog3t6Y8yY6aFp7fJQ?filename=FX_1.7A.apk"
+			"name":"File explorer",
+			"packagename":"",
+			"version":"",
+			"download_link":"https://github.com/visnkmr/file_explorer/releases/latest/download/app-release.apk"
 		},
 		{
 			"name":"Taotlus",
